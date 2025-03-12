@@ -1,0 +1,12 @@
+
+saúde
+http://dados.recife.pe.gov.br/dataset/estoque-dos-medicamentos-nas-farmacias-da-rede-municipal-de-saude
+http://dados.recife.pe.gov.br/dataset/mae-coruja
+mobilidade
+http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-e-sem-vitimas
+segurança
+http://dados.recife.pe.gov.br/dataset/ocorrencias
+meio-ambiente
+http://dados.recife.pe.gov.br/dataset/pesagem-de-coletas-de-residuos
+http://dados.recife.pe.gov.br/dataset/destinacao-de-residuos-solidos
+http://dados.recife.pe.gov.br/dataset/roteiro-de-coleta
